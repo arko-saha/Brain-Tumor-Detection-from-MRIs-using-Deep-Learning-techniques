@@ -6,7 +6,7 @@ Dataset: https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-datase
 ## Before running the code
 Make sure the complete dataset is in the drive under './Colab Notebooks/Deep Learning Applications/' directory.  
 
-## DeployingTheModel
+## Deploying the model
 It is important to create an empty folder named 'images'. 
 
 Model download link: https://drive.google.com/file/d/1iZWY3yfwzLOtnq4OzoSK1HZSgnByTD3u/view?usp=sharing
